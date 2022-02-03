@@ -1,6 +1,6 @@
-# android-mascot
+# Web site Mascote Android
 
-Web site Mascote Android
+
 Imagens
 
 ### Sobre este projeto:
