@@ -10,7 +10,7 @@ Imagens
 </div>
 
 ### Sobre este projeto:
-Este projeto faz parte do meu porrifólio pessoal, feito durante um curso de HTML5 e CSS3, o projeto de designer foi criado por <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara<a>, porém desenvolvido por mim.
+Este projeto faz parte do meu porrifólio pessoal, feito durante um curso de HTML5 e CSS3, o projeto de designer foi criado por <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara<a>, porém codificado por mim.
 
 
 ### Como funcionar o projeto:
