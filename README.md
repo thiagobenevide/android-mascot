@@ -2,7 +2,7 @@
 
 
 Imagens
-<img src="image/bugdroid.png">
+<img src="image/mascote_android1.png">
 ### Sobre este projeto:
   Este projeto faz parte do meu porrifólio pessoal, feito durante um curso de HTML5 e CSS3, o projeto de designer foi criado por gustavo guanabara, porém desenvolvido por mim.
 
