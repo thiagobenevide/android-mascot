@@ -3,10 +3,10 @@
 
 Imagens
 <div>
-  <img src="image/mascote_android1.png" width="150px">
-  <img src="image/mascote_android2.png" width="150px">
-  <img src="image/mascote_android3.png" width="150px">
-  <img src="image/mascote_android4.png" width="150px">
+  <img src="image/mascote_android1.png" width="300px">
+  <img src="image/mascote_android2.png" width="300px">
+  <img src="image/mascote_android3.png" width="300px">
+  <img src="image/mascote_android4.png" width="300px">
 </div>
 
 ### Sobre este projeto:
