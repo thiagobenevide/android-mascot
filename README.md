@@ -1,13 +1,10 @@
 # Site Mascote Android
 
 
-Imagens
-<div>
-  <img src="image/mascote_android1.png" width="350px">
-  <img src="image/mascote_android2.png" width="350px">
-  <img src="image/mascote_android3.png" width="350px">
-  <img src="image/mascote_android4.png" width="350px">
-</div>
+<img src="image/mascote_android1.png" width="350px">
+<img src="image/mascote_android2.png" width="350px">
+<img src="image/mascote_android3.png" width="350px">
+<img src="image/mascote_android4.png" width="350px">
 
 ### Sobre este projeto:
 Este projeto faz parte do meu porrifólio pessoal, feito durante um curso de HTML5 e CSS3, o projeto de designer foi criado por <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara<a>, porém codificado por mim.
