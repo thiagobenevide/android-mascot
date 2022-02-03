@@ -4,6 +4,9 @@
 Imagens
 <div>
   <img src="image/mascote_android1.png">
+  <img src="image/mascote_android2.png">
+  <img src="image/mascote_android3.png">
+  <img src="image/mascote_android4.png">
 </div>
 
 ### Sobre este projeto:
