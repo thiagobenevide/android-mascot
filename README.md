@@ -16,8 +16,8 @@ Imagens
   A principio ficarei feliz se você quiser entregar algum feedback sobre o projeto, pois ele foi feito para demostrar o meu conhecimento em código e estruturação, utilizando aspectos básicos na sua construção.
   
 ### Construido com:
-**HTML5** - em sua estrura.
-**CSS3** - em seu designer.
+1. **HTML5** - em sua estrura.
+2. **CSS3** - em seu designer.
   
 ### Observações importantes
 1. Por ser um dos primeiros projetos pessoais, não foi utilizado quase nada de flex-box e grid.
