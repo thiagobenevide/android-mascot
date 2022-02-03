@@ -1,4 +1,4 @@
-# Web site Mascote Android
+# Site Mascote Android
 
 
 Imagens
@@ -8,7 +8,7 @@ Imagens
 
 
 ### Como funcionar o projeto:
-1. Para clonar o projeto em sua máquina.
+1. `https://github.com/thiagobenevide/android-mascot.git` para clonar o projeto em sua máquina.
 2. <a href="https://thiagobenevide.github.io/android-mascot/">Clique aqui <a>para abrir o site imediatamente e testar com o github-pages.
 
 ### Propósito:
