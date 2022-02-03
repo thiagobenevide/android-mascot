@@ -20,6 +20,7 @@ Imagens
 **CSS3** - em seu designer.
   
 ### Observações importantes
-  Por ser um dos primeiros projetos pessoais, não foi utilizado quase nada de flex-box e grid.
-Os links do artigo em destaque funcionam, porém o menu de navegação encontra-se desabilitado.
+1. Por ser um dos primeiros projetos pessoais, não foi utilizado quase nada de flex-box e grid.
+2. Os links do artigo em destaque funcionam, porém o menu de navegação encontra-se desabilitado.
+3. A responsividade está aplicada para telas com largura mínima de 320px.
 
